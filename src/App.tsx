@@ -7,7 +7,7 @@ import { getFirestore, collection, addDoc, getDocs } from "firebase/firestore";
 
 // --- LANGKAH 2: Masukkan Kunci Rahasiamu ---
 // TODO: PASTE FIREBASE CONFIG ANDA DI SINI
-Const firebaseConfig = {
+const firebaseConfig = {
   apiKey: "AIzaSyB8OYNfckOHNYIaltUr4-1cKY8hcTL52Cc",
   authDomain: "backend-prompt-studio.firebaseapp.com",
   projectId: "backend-prompt-studio",
